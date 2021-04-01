@@ -11,3 +11,4 @@ int main(){
     printf("%s",s);
   return 0;
 }
+this is a code for directions.
